@@ -1,5 +1,7 @@
 {
 	"id": 1141959935,
 	"name": "XXL",
-	"label": "extra-extra large"
+	"label": "extra-extra large",
+	"min": 500,
+	"max": 5000
 }	
