@@ -1,5 +1,7 @@
 {
 	"id": 1141959925,
 	"name": "L",
-	"label": "large"
+	"label": "large",
+	"min": 100,
+	"max": 500
 }	
