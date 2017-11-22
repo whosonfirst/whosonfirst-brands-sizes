@@ -1,5 +1,7 @@
 {
 	"id": 1141959937,
+	"min":2,
+	"max":5,
 	"name": "XXXS",
 	"label": "extra-extra-extra small"
 }
